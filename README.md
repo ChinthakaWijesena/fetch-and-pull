@@ -30,7 +30,7 @@ public class ForExample {
 - - -
 ***
 
-#Languages
+# Languages
 + Java
 + C#
 + C++
@@ -39,7 +39,7 @@ public class ForExample {
 - php
     - inner data     
 
-#Orderd List
+# Orderd List
 1. Chinthaka
 2. Hasala
 3. Thanuja

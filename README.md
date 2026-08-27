@@ -43,3 +43,6 @@ public class ForExample {
 1. Chinthaka
 2. Hasala
 3. Thanuja
+
+# Symbols
+&copy;
